@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    }
+    
+    header {
+    background-color: #ffffff;
+    padding: 20px;
+    }
+    
+    #hero {
+    background-image: url(images/hero.jpg);
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    }
+    
+    .services-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+    
+    .service {
+    width: 25%;
+    padding: 20px;
+    }
+    
+    #cta {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    }
+    
+    footer {
+    text-align: center;
+    padding: 20px;
+    }
+    
